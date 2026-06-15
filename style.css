@@ -24,6 +24,10 @@ body{
     font-family: var(--roboto-mono);
     font-size: 32px;
 }
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
 
 .titulo-secundario{
     font-size: 24px;
@@ -116,4 +120,3 @@ body{
     font-size: 24px;
     cursor: pointer;
 }
-
